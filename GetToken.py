@@ -6,8 +6,7 @@ headers = {
             "Content-Type": "application/json"
 }
 
-url = 'https://test-dh2.efir-net.ru/v2/Account/Login'
-#url = 'https://stage-addin.efir-net.ru/Account/Login'
+url = ''
 login = ''
 passwd = ''
 
