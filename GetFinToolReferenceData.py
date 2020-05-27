@@ -5,7 +5,7 @@ import time
 
 start_time = time.monotonic()
 
-url = 'https://test-dh2.efir-net.ru/v2/Info/FintoolReferenceData'
+url = ''
 
 token = tkn()
 
